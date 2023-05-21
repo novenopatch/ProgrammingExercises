@@ -1,6 +1,6 @@
 # ProgrammingExercises
 
-This directory contains common programming and algorithm exercises. Each file represents a specific exercise and contains the corresponding code to solve the given problem.
+This repo contains common programming and algorithm exercises. Each file represents a specific exercise and contains the corresponding code to solve the given problem.
 
 ## File List:
 
